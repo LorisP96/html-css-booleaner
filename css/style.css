@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.pattern {
+    background-color: hsl(212deg 100% 65%);
+    background-image: url(../img/pattern.png);
+    background-size: 420px;
+}
+#logo {
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
