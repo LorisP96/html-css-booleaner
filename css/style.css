@@ -15,7 +15,7 @@
     margin-bottom: 10px;
 }
 main, footer {
-    margin-left: 1%;
+    margin-left: 15px;
 }
 h1 {
     font-size: 40px;
@@ -25,16 +25,50 @@ h1 {
     color: #808080;
     font-size: 18px;
 }
-a {
+#boo {
     color: #20a9e5;
-    text-decoration: none;
 }
 #data, .foto {
     font-size: 13px;
 }
-.pattern, section {
-    margin-bottom: 15px;
+.pattern, section, table {
+    margin-bottom: 20px;
 }
 p span {
     background-color: yellow;
+}
+.list {
+    margin-left: 20px;
+}
+thead {
+    background-color: #20a9e5;
+    color: white;
+}
+.blue {
+    background-color: #b1e5f2;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.more {
+    width: 50%;
+}
+h2 {
+    color: white;
+    font-size: 20px;
+}
+#monitor {
+    width: 400px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    margin-bottom: 20px;
+}
+#graph {
+    width: 400px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    margin-bottom: 20px;
 }
